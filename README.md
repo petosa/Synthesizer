@@ -18,6 +18,7 @@ used to control playback, save progress, or open an existing project.
 The tempo of playback can be adjusted by the orange slider located on the control panel. The smaller
 slider underneath the control panel can be used to scroll through the sheets of a project.
 
-Video sample available here: https://www.youtube.com/watch?v=UvCnIP_3mhE
+Video sample available here: 
+<img src="http://i.imgur.com/LpdpAn4.png" href="https://www.youtube.com/watch?v=UvCnIP_3mhE">
 
-Compiled jar available for download: https://drive.google.com/file/d/0B8JWRCh2pVjBallNVVhsUDk5Q3c/view
+Compiled jar available for download: https://github.com/petosa/Synthesizer/releases/tag/1.0.0
