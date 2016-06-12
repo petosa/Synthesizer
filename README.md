@@ -19,6 +19,5 @@ The tempo of playback can be adjusted by the orange slider located on the contro
 slider underneath the control panel can be used to scroll through the sheets of a project.
 
 Video sample available here: 
-
 [![](http://i.imgur.com/LpdpAn4.png)](https://www.youtube.com/watch?v=UvCnIP_3mhE)
 Compiled jar available for download: https://github.com/petosa/Synthesizer/releases/tag/1.0.0
